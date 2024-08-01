@@ -12,7 +12,7 @@ title                    : "Zhang Yang / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "test personal description"
-url                      : https://zhangyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fengyuewuya.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fengyuewuya/zhangyang.github.io"
 
