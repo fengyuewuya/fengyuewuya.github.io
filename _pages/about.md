@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yang Zhang's Homepage"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,14 +11,19 @@ Yang Zhang is presently a fourth-year Ph.D. student at the Gaoling School of Art
 
 Research Interests
 ======
-- 1
-- 2
-- 3
-- 4
+- Artificial Intelligence
+- Graph Neural Networks
+- Graph Neural Networks for Chemical, Physical and Biochemical
+- Artificial Intelligence Security
 
 Publication
 ======
-- 1
-- 2
-- 3
-- 4
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
