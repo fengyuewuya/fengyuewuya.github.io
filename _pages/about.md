@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yang Zhang is presently a fourth-year Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China, under the guidance of Prof. Zhewei Wei. Prior to this, he attained his M.A.S degree in Software Engineering from the School of Computer Science, Central South University in June 2020.
+Yang Zhang is currently a fourth-year Ph.D. student at the Gaoling School of Artificial Intelligence at Renmin University of China, supervised by Professor Zhewei Wei. Prior to this, he obtained his Master's degree in Applied Statistics from the School of Statistics, Beijing Normal University, under the guidance of Professor Guangming Lv, in June 2017. Furthermore, he graduated with a Bachelor's degree in Statistics from Zhengzhou University in June 2015.
 
 Research Interests
 ======
