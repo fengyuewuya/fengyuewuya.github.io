@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en_CN"
-title                    : "Zhang Yang / Site Title"
+title                    : "Yang Zhang's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "test personal description"
+name                     : &name "Yang Zhang"
+description              : &description "Yang Zhang's Homepage"
 url                      : https://fengyuewuya.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fengyuewuya/fengyuewuya.github.io"
